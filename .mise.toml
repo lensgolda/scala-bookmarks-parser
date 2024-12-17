@@ -1,0 +1,4 @@
+[tools]
+sbt = "latest"
+scala = "2.13.15"
+scala-cli = "latest"

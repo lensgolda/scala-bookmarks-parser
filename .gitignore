@@ -1,0 +1,11 @@
+**/target
+.bloop
+.vscode
+.metals
+
+project/*
+!project/build.properties
+!project/*.scala
+!project/plugins.sbt
+
+.DS_Store
